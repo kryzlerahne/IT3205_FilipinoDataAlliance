@@ -1,4 +1,4 @@
-# Project Title:
+# Project Title: The Future Pay: Effects of Increasing Minimum Wage in the Philippines
 
 **Introduction**
 
