@@ -16,9 +16,19 @@ In this light, the analysis of this study focuses on its objectives to develop a
 
 <h3> Significance of the Proposed Project </h3>
 
+This research is highly significant to the following recipients:
+
+**To the Poor Households in the Philippines.**
+
+ **To the Filipino workers and employees.**
+ 
+ **To the Department of Labor and Employment (DOLE).**
+ 
+ **To the Government and our Country.**
+
 <h3> Methods </h3>
 
-The researchers will utilize the datasets that they have acquired provided by the Philippine Statistics Authority to assess and predict possible effects of increasing the minimum wage here in the Philippines and be able to know if its effective, possible or not? 
+The researchers will be using the datasets available provided by the Philippine Statistics Authority to assess and predict possible effects of increasing the minimum wage in the Philippines and determine whether it is effective, feasible or not? The datasets to be used includes...
 
 The approaches for analyzing the mentioned datasets and their relevant relationships with one another are as follows:
 
