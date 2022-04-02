@@ -8,7 +8,7 @@ In this light, the analysis of this study focuses on its objectives to develop a
 
 **Problem Statement**
 
-Based on a survey conducted by the World Economic Forum in 2019, the Philippine youth still prefers to work overseas due to the high unemployment rate in the country, higher salary and income can be generated compared working here.
+Based on a survey conducted by the World Economic Forum in 2019, the Philippine youth still prefers to work overseas owing to the country's high unemployment rate, better opportunities,  higher salaries and higher minimum wage given in other countries compared to working here. It is evident that economic growth in the Philippines is quite low since Filipinos choose to work abroad granting them more gains and expansion for other nations while leaving our own country behind in terms of economic progress.
 
 (...)
 
