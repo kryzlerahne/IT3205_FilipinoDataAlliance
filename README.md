@@ -16,7 +16,7 @@ In this light, the analysis of this study focuses on its objectives to develop a
 
 <h3> Significance of the Proposed Project </h3>
 
-This research is highly significant to the following recipients:
+The proposed project intends to address this issue, as well as the contry's minimum wage and poverty rate. This research is highly significant to the following recipients:
 
 **To the citizens and the community.** To the citizens and the community. This project allows them to have an insight into the trends with regards to the issues. They needed to be able to attain knowledge of the key benefits they can attain once the issues are addressed. It would allow the citizens and the community to be educated and have their rights to labor more protected.
 
@@ -24,6 +24,7 @@ This research is highly significant to the following recipients:
  
 **To the Filipino workers and employees.** The result of the project creates a better understanding of the key factors and benefits of the adjusted minimum wage fare for workers and employees. This project will assist in making every worker aware of the changes that a wage increase can bring. The information formed is utilized to increase employees' awareness and attention to the problem of the minimum wage in the Philippines.
  
+**To the future researchers**. The information and analysis made by the team can be used for a more in-depth understanding of the phenomenon. This project will act as a guide and a source of support for future research. The project will certainly give them a good background and overview of the analysis and effects of the minimum wage in the Philippines.
 
 <h3> Methods </h3>
 
