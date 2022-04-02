@@ -1,4 +1,4 @@
-# Project Title: The Future Pay: Effects of Increasing Minimum Wage in the Philippines
+# Project Title: The Future Pay: Analysis on the Potential Effects of Increasing Minimum Wage in the Philippines
 
 **Introduction**
 
@@ -18,7 +18,7 @@ According to a recent Labor Force survey done in December 2021, the Philippines'
 
 **Methods**
 
-//Datasets discussion
+The researchers will utilize the datasets that they have acquired provided by the Philippine Statistics Authority to assess and predict possible effects of increasing the minimum wage here in the Philippines and be able to know if its effective, possible or not? 
 
 The approaches for analyzing the mentioned datasets and their relevant relationships with one another are as follows:
 
