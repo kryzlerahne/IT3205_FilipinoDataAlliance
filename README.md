@@ -18,4 +18,8 @@ According to a recent Labor Force survey done in December 2021, the Philippines'
 
 **Methods**
 
+//Datasets discussion
+
+The approaches for analyzing the mentioned datasets and their relevant relationships with one another are as follows:
+
 **Expected Output**
