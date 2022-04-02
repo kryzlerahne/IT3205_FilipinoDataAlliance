@@ -10,6 +10,8 @@ In this light, the analysis of this study focuses on its objectives to develop a
 
 Based on a survey conducted by the World Economic Forum in 2019, the Philippine youth still prefers to work overseas owing to the country's high unemployment rate, better opportunities,  higher salaries and higher minimum wage given in other countries compared to working here. It is evident that economic growth in the Philippines is quite low since Filipinos choose to work abroad granting them more gains and expansion for other nations while leaving our own country behind in terms of economic progress.
 
+According to a recent Labor Force survey done in December 2021, the Philippines' unemployment rate increased slightly to 6.6 percent from 6.5 percent recorded in November 2021. The overall number of jobless people was predicted to reach 3.27 million, up 113 thousand from 3.16 million in November 2021. This also implies that the higher the unemployment rate, the more difficult it is for Filipinos to satisfy their basic necessities. With such a low minimum salary, what and how do you suppose Filipinos do in their everyday lives?
+
 (...)
 
 **Significance of the Proposed Project**
