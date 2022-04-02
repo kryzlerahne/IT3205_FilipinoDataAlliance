@@ -18,13 +18,13 @@ In this light, the analysis of this study focuses on its objectives to develop a
 
 This research is highly significant to the following recipients:
 
-**To the Poor Households in the Philippines.**
+**To the Poor Households in the Philippines.** (...)
 
- **To the Filipino workers and employees.**
+ **To the Filipino workers and employees.** (...)
  
- **To the Department of Labor and Employment (DOLE).**
+ **To the Department of Labor and Employment (DOLE).** (...)
  
- **To the Government and our Country.**
+ **To the Government and our Country.** (...)
 
 <h3> Methods </h3>
 
@@ -32,4 +32,8 @@ The researchers will be using the datasets available provided by the Philippine 
 
 The approaches for analyzing the mentioned datasets and their relevant relationships with one another are as follows:
 
+(...)
+
 <h3> Expected Output </h3>
+
+(...)
