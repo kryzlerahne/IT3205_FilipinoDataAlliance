@@ -30,7 +30,7 @@ The proposed project intends to address this issue, as well as the contry's mini
  
 **To the Filipino workers and employees.** The result of the project creates a better understanding of the key factors and benefits of the adjusted minimum wage fare for workers and employees. This project will assist in making every worker aware of the changes that a wage increase can bring. The information formed is utilized to increase employees' awareness and attention to the problem of the minimum wage in the Philippines. This will greatly benefit the filipino workers and employees because this can help them understand more about the matters affecting the wage they can earn from working.
  
-**To the future researchers**. The information and analysis made by the team can be used for a more in-depth understanding of the phenomenon. This project will act as a guide and a source of support for future research. The project will certainly give them a good background and overview of the analysis and effects of the minimum wage in the Philippines.
+**To the future researchers**. The information and analysis made by the team can be used for a more in-depth understanding of the phenomenon. This project will act as a guide and a source of support for future research. The project will certainly give them a good background and overview of the analysis and effects of the minimum wage in the Philippines especially the factors affecting it. 
 
 <h3> Methods </h3>
 
