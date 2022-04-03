@@ -24,7 +24,7 @@ Minimum wage is the lowest pay that employers can offer their workers for the wo
 
 The proposed project intends to address this issue, as well as the contry's minimum wage and poverty rate. This research is highly significant to the following recipients:
 
-**To the citizens and the community.** To the citizens and the community. This project allows them to have an insight into the trends with regards to the issues. They needed to be able to attain knowledge of the key benefits they can attain once the issues are addressed. It would allow the citizens and the community to be educated and have their rights to labor more protected. It will give them certain knowledge about the certain topic discussed. 
+**To the citizens and the community.** To the citizens and the community. This project allows them to have an insight into the trends with regards to the issues. They needed to be able to attain knowledge of the key benefits they can attain once the issues are addressed. It would allow the citizens and the community to be educated and have their rights to labor more protected.
 
 **To the Department of Labor and Employment (DOLE) and the government.** This project enables them to have useful information for the improvement and alignment of their policies. They can strengthen their laws and norms even further, as well as the concreteness of their initiatives. The government can serve as a link between citizens and opportunities by acting as a bridge, especially among those in the poor sector. The project will be beneficial to them because it will allow them to provide better service to the people while also raising awareness.
  
