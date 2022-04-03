@@ -34,7 +34,7 @@ The proposed project intends to address this issue, as well as the contry's mini
 
 <h3> Methods </h3>
 
-The researchers will be using the datasets available provided by the Philippine Statistics Authority to assess and predict possible effects of increasing the minimum wage in the Philippines and determine whether it is effective, feasible or not? The datasets to be used includes...
+The researchers will be using the datasets available provided by the Philippine Statistics Authority to assess and predict the possible effects of increasing the minimum wage in the Philippines and determine whether it is effective, feasible or not? The datasets to be used include the Poverty Rate among the population of Poor Filipinos whose per capita income is inadequate for their livelihood, which can also be used to compare and assess other countries’ poverty rates whose minimum wage is sufficient for their living and necessities, based on the report conducted by Picodi. Furthermore, this study will use a dataset that includes statistics for the unemployment rate reported in the Philippines as well as determining the significant correlation that it has in relation to the Philippines' minimum wage, in comparison to other nations, in order to identify the potential impact it provides, upon increasing the minimum wage for its people.
 
 The approaches for analyzing the mentioned datasets and their relevant relationships with one another are as follows:
 
