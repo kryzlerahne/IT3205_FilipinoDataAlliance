@@ -1,3 +1,4 @@
+![minwage](https://user-images.githubusercontent.com/102575349/162691093-3c094298-9d77-41bc-9809-483bca65d519.png)
 # The Future Pay: Analysis on the Potential Effects of Increasing Minimum Wage in the Philippines
 
 <h3> Introduction </h3>
