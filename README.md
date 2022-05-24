@@ -14,7 +14,7 @@ In this light, the analysis of this study focuses on its objectives to develop a
 <img src="https://www.unoosa.org/images/ourwork/SDGs/E_SDG_goals_icons-individual-rgb-01.png" alt="No Poverty" width="250" height="250"> **End Poverty**
 
 
-<img src="https://www.unoosa.org/images/ourwork/SDGs/E_SDG_goals_icons-individual-rgb-01.png" alt="Decent Work and Economic Growth" width="250" height="250"> **Decent Work and Economic Growth** 
+<img src="https://www.un.org/esa/ffd/ffddialogue/images/E_SDG%20goals_icons-individual-rgb-08.png" alt="Decent Work and Economic Growth" width="250" height="250"> **Decent Work and Economic Growth** 
 
 
 <h3> Problem Statement </h3>
