@@ -12,10 +12,10 @@ In this light, the analysis of this study focuses on its objectives to develop a
 <h3> Sustainable Development Goals (SDGs) </h3>
 The SDGs which this project aims to attain are to End Poverty and Decent Work and Economic Growth. These SDGs are further described as follows:
 
-**Goal 1:End Poverty** - This SDG is to eradicate poverty in all of its forms worldwide. Its goals include ensuring that everyone, particularly the poorest and most vulnerable, has equitable access to economic resources, basic services, property and land ownership, natural resources, and innovative technology.<br/>
+**Goal 1: End Poverty** - This SDG is to eradicate poverty in all of its forms worldwide. Its goals include ensuring that everyone, particularly the poorest and most vulnerable, has equitable access to economic resources, basic services, property and land ownership, natural resources, and innovative technology.<br/>
 <img src="https://www.unoosa.org/images/ourwork/SDGs/E_SDG_goals_icons-individual-rgb-01.png" alt="No Poverty" width="250" height="250">
 
-**Decent Work and Economic Growth** <br />
+**Goal 8: Decent Work and Economic Growth** <br />
 <img src="https://www.un.org/esa/ffd/ffddialogue/images/E_SDG%20goals_icons-individual-rgb-08.png" alt="Decent Work and Economic Growth" width="250" height="250">
 
 
