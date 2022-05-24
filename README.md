@@ -11,7 +11,7 @@ In this light, the analysis of this study focuses on its objectives to develop a
 
 <h3> Sustainable Development Goals (SDGs) </h3>
 The SDGs which this project aims to attain are to End Poverty and Decent Work and Economic Growth. These SDGs are further described as follows:
-<br>
+
 **End Poverty**<br />
 <img src="https://www.unoosa.org/images/ourwork/SDGs/E_SDG_goals_icons-individual-rgb-01.png" alt="No Poverty" width="250" height="250">
 
