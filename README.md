@@ -9,6 +9,14 @@ The minimum wage is the smallest amount of money that a firm can pay its employe
  
 In this light, the analysis of this study focuses on its objectives to develop a labor policy and recommendation of an action plan for raising the minimum wage of the Filipinos, which will not only help combat poverty and unemployment in the Philippines but will also encourage economic growth and development in the country. Changes to minimum wages are necessary to sustain its relevance in fluctuating economic and social realities from time to time. The goal of this project is to also encourage more Filipinos to stay in the Philippines and work for our own country, which again will empower and benefit the Philippines by providing possibilities for growth to our economy and optimizing the Filipino skills and intelligence that we have rather than going abroad away from their families and sometimes experience kinds of discrimination and abuse.
 
+<h3> Sustainable Development Goals </h3>
+
+![E_SDG_goals_icons-individual-rgb-01](https://user-images.githubusercontent.com/102497681/169946798-e96b645d-087a-45c3-a33c-c0d2baad0abb.png) **End Poverty**
+
+
+![E_SDG goals_icons-individual-rgb-08](https://user-images.githubusercontent.com/102497681/169946868-f57137d3-3002-4aa2-9c72-e036e7eed2a8.png) **Decent Work and Economic Growth** 
+
+
 <h3> Problem Statement </h3>
 
 **Growing Rate of Labor Migration.** Based on a survey conducted by the World Economic Forum in 2019, the Philippine youth still prefers to work overseas owing to the country's high unemployment rate, better opportunities,  higher salaries and higher minimum wage given in other countries compared to working here. It is evident that economic growth in the Philippines is quite low since Filipinos choose to work abroad granting them more gains and expansion for other nations while leaving our own country behind in terms of economic progress. 
