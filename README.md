@@ -15,7 +15,7 @@ The SDGs which this project aims to attain are to End Poverty and Decent Work an
 **Goal 1: End Poverty** - This SDG is to eradicate poverty in all of its forms worldwide. Its goals include ensuring that everyone, particularly the poorest and most vulnerable, has equitable access to economic resources, basic services, property and land ownership, natural resources, and innovative technology.<br/>
 <img src="https://www.unoosa.org/images/ourwork/SDGs/E_SDG_goals_icons-individual-rgb-01.png" alt="No Poverty" width="250" height="250">
 
-**Goal 8: Decent Work and Economic Growth** <br />
+**Goal 8: Decent Work and Economic Growth** - The SDGs encourage long-term economic growth, increased productivity, and technological advancement. Encouragement of entrepreneurship and job development, as well as effective efforts to end forced labor, slavery, and human trafficking, are essential.<br />
 <img src="https://www.un.org/esa/ffd/ffddialogue/images/E_SDG%20goals_icons-individual-rgb-08.png" alt="Decent Work and Economic Growth" width="250" height="250">
 
 
