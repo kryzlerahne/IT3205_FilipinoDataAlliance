@@ -10,8 +10,8 @@ The minimum wage is the smallest amount of money that a firm can pay its employe
 In this light, the analysis of this study focuses on its objectives to develop a labor policy and recommendation of an action plan for raising the minimum wage of the Filipinos, which will not only help combat poverty and unemployment in the Philippines but will also encourage economic growth and development in the country. Changes to minimum wages are necessary to sustain its relevance in fluctuating economic and social realities from time to time. The goal of this project is to also encourage more Filipinos to stay in the Philippines and work for our own country, which again will empower and benefit the Philippines by providing possibilities for growth to our economy and optimizing the Filipino skills and intelligence that we have rather than going abroad away from their families and sometimes experience kinds of discrimination and abuse.
 
 <h3> Sustainable Development Goals (SDGs) </h3>
-The SDGs which this project aims to attain are to End Poverty and Decent Work and Economic Growth. These SDGs are further described as follows:<br>
-
+The SDGs which this project aims to attain are to End Poverty and Decent Work and Economic Growth. These SDGs are further described as follows:
+<br>
 **End Poverty**<br />
 <img src="https://www.unoosa.org/images/ourwork/SDGs/E_SDG_goals_icons-individual-rgb-01.png" alt="No Poverty" width="250" height="250">
 
