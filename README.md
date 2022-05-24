@@ -11,7 +11,7 @@ In this light, the analysis of this study focuses on its objectives to develop a
 
 <h3> Sustainable Development Goals </h3>
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.unoosa.org%2Foosa%2Fen%2Fourwork%2Fspace4sdgs%2Fsdg1.html&psig=AOvVaw2JMuXiSa78o50SCRB2d91U&ust=1653454455867000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCLDUxf-r9_cCFQAAAAAdAAAAABAZ" width="600"> **End Poverty**
+<img src="[url](https://www.unoosa.org/images/ourwork/SDGs/E_SDG_goals_icons-individual-rgb-01.png)" alt="No Poverty" width="250" height="250"> **End Poverty**
 
 
 ![E_SDG goals_icons-individual-rgb-08](https://user-images.githubusercontent.com/102497681/169946868-f57137d3-3002-4aa2-9c72-e036e7eed2a8.png) **Decent Work and Economic Growth** 
