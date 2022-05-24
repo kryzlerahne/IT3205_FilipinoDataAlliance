@@ -11,7 +11,7 @@ In this light, the analysis of this study focuses on its objectives to develop a
 
 <h3> Sustainable Development Goals </h3>
 
-<img src="[https://your-image-url.type](https://user-images.githubusercontent.com/102497681/169947747-dc6a84e7-a81f-4fb2-b8fc-8d4999ab10c6.png)" width="100" height="100"> **End Poverty**
+<img src="![image](https://user-images.githubusercontent.com/102497681/169951998-07180649-a809-4299-bd1c-7139d3721975.png)" width="600"> **End Poverty**
 
 
 ![E_SDG goals_icons-individual-rgb-08](https://user-images.githubusercontent.com/102497681/169946868-f57137d3-3002-4aa2-9c72-e036e7eed2a8.png) **Decent Work and Economic Growth** 
