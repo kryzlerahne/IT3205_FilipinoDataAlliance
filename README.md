@@ -11,10 +11,10 @@ In this light, the analysis of this study focuses on its objectives to develop a
 
 <h3> Sustainable Development Goals </h3>
 
-**End Poverty**
+**End Poverty**<br />
 <img src="https://www.unoosa.org/images/ourwork/SDGs/E_SDG_goals_icons-individual-rgb-01.png" alt="No Poverty" width="250" height="250">
 
-**Decent Work and Economic Growth** 
+**Decent Work and Economic Growth** <br />
 <img src="https://www.un.org/esa/ffd/ffddialogue/images/E_SDG%20goals_icons-individual-rgb-08.png" alt="Decent Work and Economic Growth" width="250" height="250">
 
 
