@@ -1,4 +1,4 @@
-<img src="D:\Files\Third Year Files\2nd Semester\Analytics Techniques and Tools\Readme" alt="Minimum Wage">
+![Minimum Wage](https://user-images.githubusercontent.com/74886614/170345171-32ee5718-999e-4344-84a3-5fba4235d4c1.jpg)
 # The Future Pay: Analysis on the Potential Effects of Increasing Minimum Wage in the Philippines
 
 <h3> Introduction </h3>
