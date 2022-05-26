@@ -9,16 +9,21 @@
 <p align=justify> &nbsp;&nbsp;&nbsp;&nbsp;The minimum wage is the smallest amount of money that a firm can pay its employees for the job and services they offer and do, at which workers are also permitted to sell their labor under Republic Act No.602 often known as the Minimum Wage Law, which was enacted in the Philippines. According to the findings of the study conducted by Cacnio in 2017, standard economic theory has predicted that somehow raising the minimum wage of the workers and increasing them would result in a negligible influence on the regional pricing, however, this is just minimal and would not result in inflationary pressures. Moreover, the minimum wage can only increase once a year – unless there are extenuating circumstances – and may not result in pay push inflation. In a company, the standard in their profit maximization is that they can only increase their workforce for as long as the cost of getting an extra worker is less than the increased income it generates for the firm. That is, a company will only recruit more workers if their profit and revenue also increase. This means that the minimum wage in companies may vary depending on their market, but not minimal and still follows the Minimum Wage Law mandated by the government. The researchers conducted this study as they also stand and believe in protecting our Filipino workers not just in our society but also to enable their skill creation and development as an individual. This helps in assuring that these employees are getting what they deserve in exchange for the service and productivity they provide.
  
 <p align=justify> &nbsp;&nbsp;&nbsp;&nbsp;In this light, the analysis of this study focuses on its objectives to develop a labor policy and recommendation of an action plan for raising the minimum wage of the Filipinos, which will not only help combat poverty and unemployment in the Philippines but will also encourage economic growth and development in the country. Changes to minimum wages are necessary to sustain its relevance in fluctuating economic and social realities from time to time. The goal of this project is to also encourage more Filipinos to stay in the Philippines and work for our own country, which again will empower and benefit the Philippines by providing possibilities for growth to our economy and optimizing the Filipino skills and intelligence that we have rather than going abroad away from their families and sometimes experience kinds of discrimination and abuse.
+ 
+<h1 align="center"> 
 
 <h3> Sustainable Development Goals (SDGs) </h3>
-<p align=justify>The SDGs which this project aims to attain are to End Poverty and Decent Work and Economic Growth. These SDGs are further described as follows:
+<p align=justify>&nbsp;&nbsp;&nbsp;&nbsp; The SDGs which this project aims to attain are to End Poverty and Decent Work and Economic Growth. These SDGs are further described as follows:
 
-<p align=justify><b>Goal 1: End Poverty</b> - This SDG is to eradicate poverty in all of its forms worldwide. Its goals include ensuring that everyone, particularly the poorest and most vulnerable, has equitable access to economic resources, basic services, property and land ownership, natural resources, and innovative technology.<br/>
-<img src="https://www.unoosa.org/images/ourwork/SDGs/E_SDG_goals_icons-individual-rgb-01.png" alt="No Poverty" width="250" height="250">
+ <h3 align=center><b>Goal 1: End Poverty</b></h3>
+ 
+![sdg1](https://user-images.githubusercontent.com/74886614/170424894-90ff5e28-8837-4d9c-abc4-4fb7495a71f6.jpg)
 
-<p align=justify><b>Goal 8: Decent Work and Economic Growth</b> - The SDGs encourage long-term economic growth, increased productivity, and technological advancement. Encouragement of entrepreneurship and job development, as well as effective efforts to end forced labor, slavery, and human trafficking, are essential.<br />
-<img src="https://www.un.org/esa/ffd/ffddialogue/images/E_SDG%20goals_icons-individual-rgb-08.png" alt="Decent Work and Economic Growth" width="250" height="250">
-
+ <h3 align=center><b>Goal 8: Decent Work and Economic Growth</b></h3>
+ 
+ ![sdg8](https://user-images.githubusercontent.com/74886614/170425067-e871e740-bc5b-4f8e-8569-c7ef4a2e3cb0.jpg)
+ 
+ <h1 align="center"> 
 
 <h3> Problem Statement </h3>
 
@@ -27,10 +32,12 @@
 <p align=justify><b> &nbsp;&nbsp;&nbsp;&nbsp; Unemployment Rate falls but Job Quality worsens.</b> Another problem is that the labor population in the Philippines is low since it is not completely employed because there’s only a certain percentage of working-age Filipinos in the country that are either unemployed or underemployed, at almost twice the level of our neighboring countries. According to the Labor Force Survey performed by the Philippine Statistics Authority in January 2022, 2.93 million Filipinos are unemployed at 6.4 percent, which is excellent news because it indicates a decrease from the percentage recorded the previous year. However, when compared to other nations, the Philippines' unemployment rate appears to be high, necessitating additional analysis and attention. This also suggests that the higher the unemployment rate, the more difficult it is for Filipinos to satisfy their basic necessities. The visible underemployment rate, defined as the proportion of those working less than 40 hours per week who expressed a desire to work more hours in their current job, find another job, or find a new job with longer working hours, was estimated to be 9.8 percent in December 2021, down from 11.5 percent in November of the same year. Filipinos are losing morale as a result of the unemployment situation, as well as the low wages they are receiving. With such a low minimum salary, what do you believe Filipinos do in their daily lives?
 
 <p align=justify><b> &nbsp;&nbsp;&nbsp;&nbsp; Growing Population and Poverty.</b> Another concern here is the rising percentage of poverty among poor Filipinos whose income per capita is inadequate to cover their basic needs, which was estimated at 23.7 percent or the equivalent of 26.14 million Filipinos who live below the poverty line (Dennis Mapa, 2021). This is because even if some members of poor households work, they still get P537/day which is incapable of meeting the everyday needs of a single household, according to the Picodi study in 2020.
+ 
+ <h1 align="center"> 
 
 <h3> Significance of the Proposed Project </h3>
 
-<p align=justify>The proposed project intends to address this issue, as well as the country's minimum wage and poverty rate. This research is highly significant to the following recipients:
+<p align=justify> &nbsp;&nbsp;&nbsp;&nbsp; The proposed project intends to address this issue, as well as the country's minimum wage and poverty rate. This research is highly significant to the following recipients:
 
 <p align=justify><b> &nbsp;&nbsp;&nbsp;&nbsp; To the citizens and the community.</b> To the citizens and the community. This project allows them to have an insight into the trends with regards to the issues. They needed to be able to attain knowledge of the key benefits they can attain once the issues are addressed. It would allow the citizens and the community to be educated and have their rights to labor more protected.
 
@@ -39,6 +46,8 @@
 <p align=justify><b> &nbsp;&nbsp;&nbsp;&nbsp; To the Filipino workers and employees.</b> The result of the project creates a better understanding of the key factors and benefits of the adjusted minimum wage fare for workers and employees. This project will assist in making every worker aware of the changes that a wage increase can bring. The information formed is utilized to increase employees' awareness and attention to the problem of the minimum wage in the Philippines. This will greatly benefit the Filipino workers and employees because this can help them understand more about the matters affecting the wage they can earn from working.
  
  <p align=justify><b> &nbsp;&nbsp;&nbsp;&nbsp;To the future researchers.</b> The information and analysis made by the team can be used for a more in-depth understanding of the phenomenon. This project will act as a guide and a source of support for future research. The project will certainly give them a good background and overview of the analysis and effects of the minimum wage in the Philippines especially the factors affecting it. 
+  
+<h1 align="center"> 
 
 <h3> Methods </h3>
 
@@ -51,6 +60,8 @@
 <p align=justify> &nbsp;&nbsp;&nbsp;&nbsp; Specifically, the researchers would also employ Regression Analysis to test for the significance of discontinuity between the treatment and control groups to be allocated. Since evaluating the potential effects of a minimum wage increase will be our primary focus, this technique will help us understand how one variable is affected by another, whether it will remain the same or change, giving us a better understanding of their relationships, allowing us to anticipate possible outcomes and suggest various courses of action and recommendations for the government based on the given result in the future.
 
 <p align=justify>&nbsp;&nbsp;&nbsp;&nbsp; Lastly, the researchers will use Python as their primary programming language in order to perform better classification and statistical analysis as it's flexible and can handle complicated datasets available for analysis.
+ 
+ <h1 align="center"> 
 
 <h3> Expected Output </h3>
 
