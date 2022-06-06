@@ -72,5 +72,5 @@
 
  <h1 align="center"> 
   <h3> Video Presentation Links: </h3>
-  Live Presentation: https://www.youtube.com/watch?v=6nbMi1mN_3s
+  Live Presentation: https://www.youtube.com/watch?v=6nbMi1mN_3s <br>
   Final Presentation: https://www.youtube.com/watch?v=0py5i9ZdDgA
